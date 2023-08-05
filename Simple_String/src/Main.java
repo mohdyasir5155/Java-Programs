@@ -4,3 +4,5 @@ public class Main {
         System.out.println(name);
     }
 }
+
+//By Mohd Yasir Sheikh 😉
