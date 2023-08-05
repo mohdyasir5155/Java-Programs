@@ -11,4 +11,4 @@ public class code{
 //Narrowing Casting
 //Narrowing casting must be done manually by placing the type in parentheses in front of the value:
 
-//By Mohd Yasir Sheikh
+//By Mohd Yasir Sheikh 😉
