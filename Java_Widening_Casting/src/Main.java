@@ -10,3 +10,5 @@ public class Main {
 
 //Widening Casting
 //It is done automatically when passing a smaller size type to a larger size type:
+
+//By Mohd Yasir Sheikh 😉
