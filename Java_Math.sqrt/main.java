@@ -3,3 +3,5 @@ public class main{
         System.out.println(Math.sqrt(99));
     }
 }
+
+//By Mohd Yasir Sheikh 😉
