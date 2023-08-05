@@ -3,3 +3,5 @@ public class Main{
         System.out.println(Math.min(5, 10));
     }
 }
+
+//By Mohd Yasir Sheikh 😉
