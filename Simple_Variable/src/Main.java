@@ -5,4 +5,5 @@ public class Main {
         System.out.println(x + y);
     }
 }
-//BY Mohd Yasir Sheikh
+
+//By Mohd Yasir Sheikh 😉
