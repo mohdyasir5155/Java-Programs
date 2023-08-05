@@ -19,4 +19,4 @@ public class Main {
         System.out.println(myDouble);
     }
 }
-//By Mohd Yasir Sheikh
+//By Mohd Yasir Sheikh 😉
