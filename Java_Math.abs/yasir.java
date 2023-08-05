@@ -3,3 +3,5 @@ public class yasir {
         System.out.println(Math.abs(-99.979));
     }
 }
+
+//By Mohd Yasir Sheikh 😉
