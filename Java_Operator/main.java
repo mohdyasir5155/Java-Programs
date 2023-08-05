@@ -9,3 +9,5 @@ public class main {
         System.out.println(sum3);
     }
 }
+
+//By Mohd Yasir Sheikh 😉
